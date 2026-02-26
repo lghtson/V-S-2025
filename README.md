@@ -31,17 +31,17 @@ data conclusion is very important at the end - what does the new ranking tell us
  insert link or video here.
 
 ## References and Links
-1. Reynolds, P., 1999. The Oracle of Bacon. [Online] 
+[^1]: Reynolds, P., 1999. The Oracle of Bacon. [Online] 
 Available at: https://www.oracleofbacon.org
 [Accessed 20 February 2026].
-2. IMDB.com, Inc., 1990. IMDb Non-Commercial Datasets. [Online] 
+[^2]: IMDB.com, Inc., 1990. IMDb Non-Commercial Datasets. [Online] 
 Available at: https://developer.imdb.com/non-commercial-datasets/
 [Accessed 24 February 2026].
-3. insert chatGPT prompt here.
-4. r/nmcassa, 2022. letterboxdpy. [Online] 
+[^3]: insert chatGPT prompt here.
+[^4]: r/nmcassa, 2022. letterboxdpy. [Online] 
 Available at: https://github.com/nmcassa/letterboxdpy
 [Accessed 24 February 2026].
-5. Fritz, B., 2015. OMDb API. [Online] 
+[^5]: Fritz, B., 2015. OMDb API. [Online] 
 Available at: https://www.omdbapi.com
 [Accessed 24 February 2026].
 

@@ -1,0 +1,251 @@
+tconst,titleType,primaryTitle,originalTitle,isAdult,startYear,endYear,runtimeMinutes,genres,averageRating,numVotes,imdbTop250Rank,letterboxdSlug,letterboxdUrl,letterboxdRatingOutOf5
+tt0111161,movie,The Shawshank Redemption,The Shawshank Redemption,0,1994,,142,Drama,9.3,3160312,1,the-shawshank-redemption,https://letterboxd.com/film/the-shawshank-redemption/,4.58
+tt0068646,movie,The Godfather,The Godfather,0,1972,,175,"Crime,Drama",9.2,2206636,2,the-godfather,https://letterboxd.com/film/the-godfather/,4.52
+tt0468569,movie,The Dark Knight,The Dark Knight,0,2008,,152,"Action,Crime,Drama",9.1,3137340,3,the-dark-knight,https://letterboxd.com/film/the-dark-knight/,4.49
+tt0071562,movie,The Godfather Part II,The Godfather Part II,0,1974,,202,"Crime,Drama",9.0,1482860,4,the-godfather-part-ii,https://letterboxd.com/film/the-godfather-part-ii/,4.59
+tt0050083,movie,12 Angry Men,12 Angry Men,0,1957,,96,"Crime,Drama",9.0,974676,5,12-angry-men,https://letterboxd.com/film/12-angry-men/,4.63
+tt0167260,movie,The Lord of the Rings: The Return of the King,The Lord of the Rings: The Return of the King,0,2003,,201,"Adventure,Drama,Fantasy",9.0,2147265,6,the-lord-of-the-rings-the-return-of-the-king,https://letterboxd.com/film/the-lord-of-the-rings-the-return-of-the-king/,4.54
+tt0108052,movie,Schindler's List,Schindler's List,0,1993,,195,"Biography,Drama,History",9.0,1574619,7,schindlers-list,https://letterboxd.com/film/schindlers-list/,4.54
+tt0120737,movie,The Lord of the Rings: The Fellowship of the Ring,The Lord of the Rings: The Fellowship of the Ring,0,2001,,178,"Adventure,Drama,Fantasy",8.9,2187865,8,the-lord-of-the-rings-the-fellowship-of-the-ring,https://letterboxd.com/film/the-lord-of-the-rings-the-fellowship-of-the-ring/,4.39
+tt0110912,movie,Pulp Fiction,Pulp Fiction,0,1994,,154,"Crime,Drama",8.8,2415880,9,pulp-fiction,https://letterboxd.com/film/pulp-fiction/,4.24
+tt0060196,movie,"The Good, the Bad and the Ugly","Il buono, il brutto, il cattivo",0,1966,,178,"Adventure,Drama,Western",8.8,885413,10,the-good-the-bad-and-the-ugly,https://letterboxd.com/film/the-good-the-bad-and-the-ugly/,4.51
+tt0167261,movie,The Lord of the Rings: The Two Towers,The Lord of the Rings: The Two Towers,0,2002,,179,"Adventure,Drama,Fantasy",8.8,1940395,11,the-lord-of-the-rings-the-two-towers,https://letterboxd.com/film/the-lord-of-the-rings-the-two-towers/,4.43
+tt0109830,movie,Forrest Gump,Forrest Gump,0,1994,,142,"Drama,Romance",8.8,2474355,12,forrest-gump,https://letterboxd.com/film/forrest-gump/,4.17
+tt0137523,movie,Fight Club,Fight Club,0,1999,,139,"Crime,Drama,Thriller",8.8,2577098,13,fight-club,https://letterboxd.com/film/fight-club/,4.27
+tt1375666,movie,Inception,Inception,0,2010,,148,"Action,Adventure,Sci-Fi",8.8,2789710,14,inception,https://letterboxd.com/film/inception/,4.23
+tt0080684,movie,Star Wars: Episode V - The Empire Strikes Back,Star Wars: Episode V - The Empire Strikes Back,0,1980,,124,"Action,Adventure,Fantasy",8.7,1493567,15,the-empire-strikes-back,https://letterboxd.com/film/the-empire-strikes-back/,4.4
+tt0133093,movie,The Matrix,The Matrix,0,1999,,136,"Action,Sci-Fi",8.7,2229152,16,the-matrix,https://letterboxd.com/film/the-matrix/,4.18
+tt0099685,movie,Goodfellas,GoodFellas,0,1990,,145,"Biography,Crime,Drama",8.7,1379094,17,goodfellas,https://letterboxd.com/film/goodfellas/,4.46
+tt0816692,movie,Interstellar,Interstellar,0,2014,,169,"Adventure,Drama,Sci-Fi",8.7,2484758,18,interstellar,https://letterboxd.com/film/interstellar/,4.44
+tt0073486,movie,One Flew Over the Cuckoo's Nest,One Flew Over the Cuckoo's Nest,0,1975,,133,Drama,8.6,1150702,19,one-flew-over-the-cuckoos-nest,https://letterboxd.com/film/one-flew-over-the-cuckoos-nest/,4.37
+tt0114369,movie,Se7en,Se7en,0,1995,,127,"Crime,Drama,Mystery",8.6,1999956,20,se7en,https://letterboxd.com/film/se7en/,4.37
+tt0038650,movie,It's a Wonderful Life,It's a Wonderful Life,0,1946,,130,"Drama,Family,Fantasy",8.6,551743,21,its-a-wonderful-life,https://letterboxd.com/film/its-a-wonderful-life/,4.44
+tt0102926,movie,The Silence of the Lambs,The Silence of the Lambs,0,1991,,118,"Crime,Drama,Horror",8.6,1706215,22,the-silence-of-the-lambs,https://letterboxd.com/film/the-silence-of-the-lambs/,4.34
+tt0047478,movie,Seven Samurai,Shichinin no samurai,0,1954,,207,"Action,Drama",8.6,399518,23,seven-samurai,https://letterboxd.com/film/seven-samurai/,4.6
+tt0120815,movie,Saving Private Ryan,Saving Private Ryan,0,1998,,169,"Drama,War",8.6,1625173,24,saving-private-ryan,https://letterboxd.com/film/saving-private-ryan/,4.25
+tt0120689,movie,The Green Mile,The Green Mile,0,1999,,189,"Crime,Drama,Fantasy",8.6,1547660,25,the-green-mile,https://letterboxd.com/film/the-green-mile/,4.28
+tt0317248,movie,City of God,Cidade de Deus,0,2002,,130,"Crime,Drama",8.6,865094,26,city-of-god,https://letterboxd.com/film/city-of-god/,4.56
+tt0118799,movie,Life Is Beautiful,La vita è bella,0,1997,,116,"Comedy,Drama,Romance",8.6,806733,27,life-is-beautiful,https://letterboxd.com/film/life-is-beautiful/,4.4
+tt0103064,movie,Terminator 2: Judgment Day,Terminator 2: Judgment Day,0,1991,,137,"Action,Adventure,Sci-Fi",8.6,1275045,28,terminator-2-judgment-day,https://letterboxd.com/film/terminator-2-judgment-day/,4.29
+tt0076759,movie,Star Wars: Episode IV - A New Hope,Star Wars,0,1977,,121,"Action,Adventure,Fantasy",8.6,1558810,29,star-wars,https://letterboxd.com/film/star-wars/,4.16
+tt0088763,movie,Back to the Future,Back to the Future,0,1985,,116,"Adventure,Comedy,Sci-Fi",8.5,1438941,30,back-to-the-future,https://letterboxd.com/film/back-to-the-future/,4.21
+tt0245429,movie,Spirited Away,Sen to Chihiro no kamikakushi,0,2001,,124,"Adventure,Animation,Family",8.6,956700,31,spirited-away,https://letterboxd.com/film/spirited-away/,4.44
+tt0253474,movie,The Pianist,The Pianist,0,2002,,150,"Biography,Drama,Music",8.5,1004350,32,the-pianist,https://letterboxd.com/film/the-pianist/,4.4
+tt0172495,movie,Gladiator,Gladiator,0,2000,,155,"Action,Adventure,Drama",8.5,1832483,33,gladiator-2000,https://letterboxd.com/film/gladiator-2000/,4.17
+tt6751668,movie,Parasite,Gisaengchung,0,2019,,132,"Drama,Thriller",8.5,1145711,34,parasite-2019,https://letterboxd.com/film/parasite-2019/,4.53
+tt0095327,movie,Grave of the Fireflies,Hotaru no haka,0,1988,,88,"Animation,Drama,War",8.5,378668,35,grave-of-the-fireflies,https://letterboxd.com/film/grave-of-the-fireflies/,4.48
+tt0054215,movie,Psycho,Psycho,0,1960,,109,"Drama,Horror,Mystery",8.5,780477,36,psycho,https://letterboxd.com/film/psycho/,4.31
+tt0110357,movie,The Lion King,The Lion King,0,1994,,88,"Adventure,Animation,Drama",8.5,1248710,37,the-lion-king,https://letterboxd.com/film/the-lion-king/,4.23
+tt0056058,movie,Harakiri,Seppuku,0,1962,,133,"Drama,Mystery",8.6,89534,38,harakiri,https://letterboxd.com/film/harakiri/,4.69
+tt0407887,movie,The Departed,The Departed,0,2006,,151,"Crime,Drama,Thriller",8.5,1541808,39,the-departed,https://letterboxd.com/film/the-departed/,4.34
+tt2582802,movie,Whiplash,Whiplash,0,2014,,106,"Drama,Music",8.5,1139023,40,whiplash-2014,https://letterboxd.com/film/whiplash-2014/,4.42
+tt0482571,movie,The Prestige,The Prestige,0,2006,,130,"Drama,Mystery,Sci-Fi",8.5,1573591,41,the-prestige,https://letterboxd.com/film/the-prestige/,4.28
+tt0120586,movie,American History X,American History X,0,1998,,119,"Crime,Drama",8.5,1265766,42,american-history-x,https://letterboxd.com/film/american-history-x/,4.15
+tt0110413,movie,Léon: The Professional,Léon,0,1994,,110,"Action,Crime,Drama",8.5,1342499,43,leon-the-professional,https://letterboxd.com/film/leon-the-professional/,4.01
+tt9362722,movie,Spider-Man: Across the Spider-Verse,Spider-Man: Across the Spider-Verse,0,2023,,140,"Action,Adventure,Animation",8.5,510178,44,spider-man-across-the-spider-verse,https://letterboxd.com/film/spider-man-across-the-spider-verse/,4.4
+tt0095765,movie,Cinema Paradiso,Nuovo Cinema Paradiso,0,1988,,174,"Drama,Romance",8.5,315268,45,cinema-paradiso,https://letterboxd.com/film/cinema-paradiso/,4.5
+tt6019206,movie,Kill Bill: The Whole Bloody Affair,Kill Bill: The Whole Bloody Affair,0,2006,,248,"Action,Crime,Thriller",8.8,26150,46,kill-bill-the-whole-bloody-affair,https://letterboxd.com/film/kill-bill-the-whole-bloody-affair/,4.48
+tt0034583,movie,Casablanca,Casablanca,0,1942,,102,"Drama,Romance,War",8.5,652037,47,casablanca,https://letterboxd.com/film/casablanca/,4.28
+tt1675434,movie,The Intouchables,Intouchables,0,2011,,112,"Comedy,Drama",8.5,1018158,48,the-intouchables,https://letterboxd.com/film/the-intouchables/,4.15
+tt0114814,movie,The Usual Suspects,The Usual Suspects,0,1995,,106,"Crime,Drama,Mystery",8.5,1230246,49,the-usual-suspects,https://letterboxd.com/film/the-usual-suspects/,4.07
+tt0078748,movie,Alien,Alien,0,1979,,117,"Horror,Sci-Fi",8.5,1055879,50,alien,https://letterboxd.com/film/alien/,4.25
+tt1853728,movie,Django Unchained,Django Unchained,0,2012,,165,"Drama,Western",8.5,1865486,51,django-unchained,https://letterboxd.com/film/django-unchained/,4.33
+tt0027977,movie,Modern Times,Modern Times,0,1936,,87,"Comedy,Drama,Romance",8.5,283890,52,modern-times,https://letterboxd.com/film/modern-times/,4.26
+tt0047396,movie,Rear Window,Rear Window,0,1954,,112,"Drama,Mystery,Thriller",8.5,566048,53,rear-window,https://letterboxd.com/film/rear-window/,4.37
+tt0064116,movie,Once Upon a Time in the West,C'era una volta il West,0,1968,,145,"Drama,Western",8.5,382011,54,once-upon-a-time-in-the-west,https://letterboxd.com/film/once-upon-a-time-in-the-west/,4.39
+tt0021749,movie,City Lights,City Lights,0,1931,,87,"Comedy,Drama,Romance",8.5,215402,55,city-lights,https://letterboxd.com/film/city-lights/,4.33
+tt0078788,movie,Apocalypse Now,Apocalypse Now,0,1979,,147,"Drama,Mystery,War",8.4,765466,56,apocalypse-now,https://letterboxd.com/film/apocalypse-now/,4.44
+tt0910970,movie,WALL·E,WALL·E,0,2008,,98,"Adventure,Animation,Family",8.4,1308716,57,walle,https://letterboxd.com/film/walle/,4.23
+tt0209144,movie,Memento,Memento,0,2000,,113,"Drama,Mystery,Thriller",8.4,1424945,58,memento,https://letterboxd.com/film/memento/,4.18
+tt15239678,movie,Dune: Part Two,Dune: Part Two,0,2024,,166,"Action,Adventure,Drama",8.4,717849,59,dune-part-two,https://letterboxd.com/film/dune-part-two/,4.38
+tt0082971,movie,Raiders of the Lost Ark,Raiders of the Lost Ark,0,1981,,115,"Action,Adventure",8.4,1104252,60,raiders-of-the-lost-ark,https://letterboxd.com/film/raiders-of-the-lost-ark/,4.15
+tt4154756,movie,Avengers: Infinity War,Avengers: Infinity War,0,2018,,149,"Action,Adventure,Sci-Fi",8.4,1355038,61,avengers-infinity-war,https://letterboxd.com/film/avengers-infinity-war/,4.03
+tt0405094,movie,The Lives of Others,Das Leben der Anderen,0,2006,,137,"Drama,Mystery,Thriller",8.4,441043,62,the-lives-of-others,https://letterboxd.com/film/the-lives-of-others/,4.29
+tt4633694,movie,Spider-Man: Into the Spider-Verse,Spider-Man: Into the Spider-Verse,0,2018,,117,"Action,Adventure,Animation",8.4,777351,63,spider-man-into-the-spider-verse,https://letterboxd.com/film/spider-man-into-the-spider-verse/,4.4
+tt0043014,movie,Sunset Boulevard,Sunset Blvd.,0,1950,,110,"Drama,Film-Noir",8.4,259553,64,sunset-boulevard,https://letterboxd.com/film/sunset-boulevard/,4.43
+tt0051201,movie,Witness for the Prosecution,Witness for the Prosecution,0,1957,,116,"Crime,Drama,Mystery",8.4,160223,65,witness-for-the-prosecution-1957,https://letterboxd.com/film/witness-for-the-prosecution-1957/,4.4
+tt0050825,movie,Paths of Glory,Paths of Glory,0,1957,,88,"Drama,War",8.4,237351,66,paths-of-glory,https://letterboxd.com/film/paths-of-glory/,4.45
+tt0081505,movie,The Shining,The Shining,0,1980,,146,"Drama,Horror",8.4,1215603,67,the-shining,https://letterboxd.com/film/the-shining/,4.22
+tt0032553,movie,The Great Dictator,The Great Dictator,0,1940,,125,"Comedy,Drama,War",8.4,258202,68,the-great-dictator,https://letterboxd.com/film/the-great-dictator/,4.33
+tt0361748,movie,Inglourious Basterds,Inglourious Basterds,0,2009,,153,"Adventure,Drama,War",8.4,1764000,69,inglourious-basterds,https://letterboxd.com/film/inglourious-basterds/,4.36
+tt23849204,movie,12th Fail,12th Fail,0,2023,,147,"Biography,Drama",8.7,167933,70,12th-fail,https://letterboxd.com/film/12th-fail/,4.13
+tt0090605,movie,Aliens,Aliens,0,1986,,137,"Action,Adventure,Horror",8.4,835824,71,aliens,https://letterboxd.com/film/aliens/,4.11
+tt0057565,movie,High and Low,Tengoku to jigoku,0,1963,,143,"Crime,Drama,Mystery",8.4,70406,72,high-and-low,https://letterboxd.com/film/high-and-low/,4.6
+tt1345836,movie,The Dark Knight Rises,The Dark Knight Rises,0,2012,,164,"Action,Crime,Drama",8.4,1978133,73,the-dark-knight-rises,https://letterboxd.com/film/the-dark-knight-rises/,3.8
+tt4154796,movie,Avengers: Endgame,Avengers: Endgame,0,2019,,181,"Action,Adventure,Sci-Fi",8.4,1427721,74,avengers-endgame,https://letterboxd.com/film/avengers-endgame/,3.95
+tt0119217,movie,Good Will Hunting,Good Will Hunting,0,1997,,126,"Drama,Romance",8.4,1201800,75,good-will-hunting,https://letterboxd.com/film/good-will-hunting/,4.37
+tt2380307,movie,Coco,Coco,0,2017,,105,"Adventure,Animation,Drama",8.4,696621,76,coco-2017,https://letterboxd.com/film/coco-2017/,4.13
+tt0086879,movie,Amadeus,Amadeus,0,1984,,160,"Biography,Drama,Music",8.4,464981,77,amadeus,https://letterboxd.com/film/amadeus/,4.35
+tt0114709,movie,Toy Story,Toy Story,0,1995,,81,"Adventure,Animation,Comedy",8.3,1163609,78,toy-story,https://letterboxd.com/film/toy-story/,4.11
+tt5311514,movie,Your Name.,Kimi no na wa.,0,2016,,106,"Animation,Drama,Fantasy",8.4,385469,79,your-name,https://letterboxd.com/film/your-name/,4.23
+tt0082096,movie,Das Boot,Das Boot,0,1981,,149,"Drama,War",8.3,286450,80,das-boot,https://letterboxd.com/film/das-boot/,4.33
+tt0364569,movie,Oldboy,Oldeuboi,0,2003,,120,"Action,Drama,Mystery",8.3,710978,81,oldboy,https://letterboxd.com/film/oldboy/,4.37
+tt0112573,movie,Braveheart,Braveheart,0,1995,,178,"Biography,Drama,War",8.3,1154973,82,braveheart,https://letterboxd.com/film/braveheart/,3.91
+tt0119698,movie,Princess Mononoke,Mononoke-hime,0,1997,,133,"Adventure,Animation,Fantasy",8.3,479257,83,princess-mononoke,https://letterboxd.com/film/princess-mononoke/,4.39
+tt0057012,movie,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,0,1964,,95,"Comedy,War",8.3,549008,84,dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb,https://letterboxd.com/film/dr-strangelove-or-how-i-learned-to-stop-worrying-and-love-the-bomb/,4.3
+tt1187043,movie,3 Idiots,3 Idiots,0,2009,,170,"Comedy,Drama",8.4,477636,85,3-idiots,https://letterboxd.com/film/3-idiots/,4.14
+tt0169547,movie,American Beauty,American Beauty,0,1999,,122,Drama,8.3,1274231,86,american-beauty,https://letterboxd.com/film/american-beauty/,3.95
+tt8267604,movie,Capernaum,Capharnaüm,0,2018,,126,Drama,8.4,122769,87,capernaum,https://letterboxd.com/film/capernaum/,4.21
+tt0045152,movie,Singin' in the Rain,Singin' in the Rain,0,1952,,103,"Comedy,Musical,Romance",8.3,280779,88,singin-in-the-rain,https://letterboxd.com/film/singin-in-the-rain/,4.35
+tt7286456,movie,Joker,Joker,0,2019,,122,"Crime,Drama,Thriller",8.3,1675816,89,joker-2019,https://letterboxd.com/film/joker-2019/,3.84
+tt0087843,movie,Once Upon a Time in America,C'era una volta in America,0,1984,,229,"Crime,Drama",8.3,406343,90,once-upon-a-time-in-america,https://letterboxd.com/film/once-upon-a-time-in-america/,4.22
+tt0091251,movie,Come and See,Idi i smotri,0,1985,,142,"Drama,Thriller,War",8.3,120868,91,come-and-see,https://letterboxd.com/film/come-and-see/,4.61
+tt0086190,movie,Star Wars: Episode VI - Return of the Jedi,Star Wars: Episode VI - Return of the Jedi,0,1983,,131,"Action,Adventure,Fantasy",8.3,1200712,92,return-of-the-jedi,https://letterboxd.com/film/return-of-the-jedi/,4.08
+tt0180093,movie,Requiem for a Dream,Requiem for a Dream,0,2000,,102,Drama,8.3,966972,93,requiem-for-a-dream,https://letterboxd.com/film/requiem-for-a-dream/,4.1
+tt0435761,movie,Toy Story 3,Toy Story 3,0,2010,,103,"Adventure,Animation,Comedy",8.3,962094,94,toy-story-3,https://letterboxd.com/film/toy-story-3/,4.01
+tt0044741,movie,Ikiru,Ikiru,0,1952,,143,Drama,8.3,101363,95,ikiru,https://letterboxd.com/film/ikiru/,4.51
+tt2106476,movie,The Hunt,Jagten,0,2012,,115,Drama,8.3,405306,96,the-hunt-2012,https://letterboxd.com/film/the-hunt-2012/,4.28
+tt1255953,movie,Incendies,Incendies,0,2010,,131,"Drama,Mystery,War",8.3,246523,97,incendies,https://letterboxd.com/film/incendies/,4.44
+tt0338013,movie,Eternal Sunshine of the Spotless Mind,Eternal Sunshine of the Spotless Mind,0,2004,,108,"Drama,Romance,Sci-Fi",8.3,1174021,98,eternal-sunshine-of-the-spotless-mind,https://letterboxd.com/film/eternal-sunshine-of-the-spotless-mind/,4.24
+tt0053604,movie,The Apartment,The Apartment,0,1960,,125,"Comedy,Drama,Romance",8.3,217648,99,the-apartment,https://letterboxd.com/film/the-apartment/,4.43
+tt0056172,movie,Lawrence of Arabia,Lawrence of Arabia,0,1962,,227,"Adventure,Biography,Drama",8.3,339546,100,lawrence-of-arabia,https://letterboxd.com/film/lawrence-of-arabia/,4.4
+tt0062622,movie,2001: A Space Odyssey,2001: A Space Odyssey,0,1968,,149,"Adventure,Sci-Fi",8.3,777254,101,2001-a-space-odyssey,https://letterboxd.com/film/2001-a-space-odyssey/,4.25
+tt0105236,movie,Reservoir Dogs,Reservoir Dogs,0,1992,,99,"Crime,Thriller",8.3,1163297,102,reservoir-dogs,https://letterboxd.com/film/reservoir-dogs/,4.14
+tt0113277,movie,Heat,Heat,0,1995,,170,"Action,Crime,Drama",8.3,794085,103,heat-1995,https://letterboxd.com/film/heat-1995/,4.3
+tt0086250,movie,Scarface,Scarface,0,1983,,170,"Crime,Drama",8.3,1005866,104,scarface-1983,https://letterboxd.com/film/scarface-1983/,4.14
+tt0036775,movie,Double Indemnity,Double Indemnity,0,1944,,107,"Crime,Drama,Film-Noir",8.3,180202,105,double-indemnity,https://letterboxd.com/film/double-indemnity/,4.26
+tt1049413,movie,Up,Up,0,2009,,96,"Adventure,Animation,Comedy",8.3,1224998,106,up,https://letterboxd.com/film/up/,4.1
+tt0053125,movie,North by Northwest,North by Northwest,0,1959,,136,"Adventure,Drama,Mystery",8.3,368143,107,north-by-northwest,https://letterboxd.com/film/north-by-northwest/,4.19
+tt0986264,movie,Like Stars on Earth,Taare Zameen Par,0,2007,,162,"Drama,Family",8.3,230155,108,like-stars-on-earth,https://letterboxd.com/film/like-stars-on-earth/,4.03
+tt0093058,movie,Full Metal Jacket,Full Metal Jacket,0,1987,,116,"Drama,War",8.2,845569,109,full-metal-jacket,https://letterboxd.com/film/full-metal-jacket/,4.2
+tt0022100,movie,M,M - Eine Stadt sucht einen Mörder,0,1931,,99,"Crime,Mystery,Thriller",8.3,181875,110,m,https://letterboxd.com/film/m/,4.29
+tt0033467,movie,Citizen Kane,Citizen Kane,0,1941,,119,"Drama,Mystery",8.2,491593,111,citizen-kane,https://letterboxd.com/film/citizen-kane/,4.19
+tt0211915,movie,Amélie,Le fabuleux destin d'Amélie Poulain,0,2001,,122,"Comedy,Romance",8.3,835649,112,amelie,https://letterboxd.com/film/amelie/,4.19
+tt0052357,movie,Vertigo,Vertigo,0,1958,,128,"Mystery,Romance,Thriller",8.2,456983,113,vertigo,https://letterboxd.com/film/vertigo/,4.22
+tt1832382,movie,A Separation,Jodaeiye Nader az Simin,0,2011,,123,Drama,8.3,276310,114,a-separation,https://letterboxd.com/film/a-separation/,4.37
+tt0095016,movie,Die Hard,Die Hard,0,1988,,132,"Action,Thriller",8.2,1023790,115,die-hard,https://letterboxd.com/film/die-hard/,4.05
+tt0056592,movie,To Kill a Mockingbird,To Kill a Mockingbird,0,1962,,129,"Crime,Drama",8.2,350193,116,to-kill-a-mockingbird,https://letterboxd.com/film/to-kill-a-mockingbird/,4.1
+tt0070735,movie,The Sting,The Sting,0,1973,,129,"Comedy,Crime,Drama",8.2,298646,117,the-sting,https://letterboxd.com/film/the-sting/,4.2
+tt0097576,movie,Indiana Jones and the Last Crusade,Indiana Jones and the Last Crusade,0,1989,,127,"Action,Adventure",8.2,859113,118,indiana-jones-and-the-last-crusade,https://letterboxd.com/film/indiana-jones-and-the-last-crusade/,4.1
+tt0066921,movie,A Clockwork Orange,A Clockwork Orange,0,1971,,136,"Crime,Sci-Fi",8.2,932065,119,a-clockwork-orange,https://letterboxd.com/film/a-clockwork-orange/,4.11
+tt0017136,movie,Metropolis,Metropolis,0,1927,,153,"Drama,Sci-Fi",8.2,199949,120,metropolis,https://letterboxd.com/film/metropolis/,4.25
+tt8579674,movie,1917,1917,0,2019,,119,"Action,Drama,War",8.2,762786,121,1917,https://letterboxd.com/film/1917/,4.12
+tt0208092,movie,Snatch,Snatch,0,2000,,102,"Comedy,Crime",8.2,971014,122,snatch,https://letterboxd.com/film/snatch/,4.04
+tt0119488,movie,L.A. Confidential,L.A. Confidential,0,1997,,138,"Crime,Drama,Mystery",8.2,655640,123,la-confidential,https://letterboxd.com/film/la-confidential/,4.09
+tt0363163,movie,Downfall,Der Untergang,0,2004,,156,"Biography,Drama,History",8.2,398278,124,downfall,https://letterboxd.com/film/downfall/,4.12
+tt0993846,movie,The Wolf of Wall Street,The Wolf of Wall Street,0,2013,,180,"Biography,Comedy,Crime",8.2,1766950,125,the-wolf-of-wall-street,https://letterboxd.com/film/the-wolf-of-wall-street/,3.99
+tt5074352,movie,Dangal,Dangal,0,2016,,161,"Action,Biography,Drama",8.3,240001,126,dangal,https://letterboxd.com/film/dangal/,3.93
+tt0040522,movie,Bicycle Thieves,Ladri di biciclette,0,1948,,89,Drama,8.2,191563,127,bicycle-thieves,https://letterboxd.com/film/bicycle-thieves/,4.29
+tt0120382,movie,The Truman Show,The Truman Show,0,1998,,103,"Comedy,Drama",8.2,1355241,128,the-truman-show,https://letterboxd.com/film/the-truman-show/,4.22
+tt15398776,movie,Oppenheimer,Oppenheimer,0,2023,,180,"Biography,Drama,History",8.2,1005273,129,oppenheimer-2023,https://letterboxd.com/film/oppenheimer-2023/,4.17
+tt6966692,movie,Green Book,Green Book,0,2018,,130,"Biography,Comedy,Drama",8.2,675296,130,green-book,https://letterboxd.com/film/green-book/,3.84
+tt1130884,movie,Shutter Island,Shutter Island,0,2010,,138,"Drama,Mystery,Thriller",8.2,1626629,131,shutter-island,https://letterboxd.com/film/shutter-island/,4.17
+tt0055031,movie,Judgment at Nuremberg,Judgment at Nuremberg,0,1961,,179,"Drama,History,War",8.3,96150,132,judgment-at-nuremberg,https://letterboxd.com/film/judgment-at-nuremberg/,4.35
+tt0372784,movie,Batman Begins,Batman Begins,0,2005,,140,"Action,Crime,Drama",8.2,1700062,133,batman-begins,https://letterboxd.com/film/batman-begins/,3.83
+tt8503618,movie,Hamilton,Hamilton,0,2020,,160,"Biography,Drama,History",8.3,137447,134,hamilton-2020,https://letterboxd.com/film/hamilton-2020/,4.26
+tt0059578,movie,For a Few Dollars More,Per qualche dollaro in più,0,1965,,132,"Drama,Western",8.2,298195,135,for-a-few-dollars-more,https://letterboxd.com/film/for-a-few-dollars-more/,4.24
+tt0075314,movie,Taxi Driver,Taxi Driver,0,1976,,114,"Crime,Drama",8.2,1017459,136,taxi-driver,https://letterboxd.com/film/taxi-driver/,4.11
+tt0107290,movie,Jurassic Park,Jurassic Park,0,1993,,127,"Action,Adventure,Sci-Fi",8.2,1167073,137,jurassic-park,https://letterboxd.com/film/jurassic-park/,4.12
+tt0053291,movie,Some Like It Hot,Some Like It Hot,0,1959,,121,"Comedy,Music,Romance",8.2,303231,138,some-like-it-hot,https://letterboxd.com/film/some-like-it-hot/,4.27
+tt0469494,movie,There Will Be Blood,There Will Be Blood,0,2007,,158,Drama,8.2,701774,139,there-will-be-blood,https://letterboxd.com/film/there-will-be-blood/,4.46
+tt0012349,movie,The Kid,The Kid,0,1921,,68,"Comedy,Drama,Family",8.2,144876,140,the-kid,https://letterboxd.com/film/the-kid/,4.21
+tt10272386,movie,The Father,The Father,0,2020,,97,"Drama,Mystery",8.2,241578,141,the-father-2020,https://letterboxd.com/film/the-father-2020/,4.29
+tt0042192,movie,All About Eve,All About Eve,0,1950,,138,Drama,8.2,148396,142,all-about-eve,https://letterboxd.com/film/all-about-eve/,4.36
+tt0167404,movie,The Sixth Sense,The Sixth Sense,0,1999,,107,"Drama,Mystery,Thriller",8.2,1135931,143,the-sixth-sense,https://letterboxd.com/film/the-sixth-sense/,4.09
+tt0089881,movie,Ran,Ran,0,1985,,160,"Action,Drama,War",8.2,150573,144,ran,https://letterboxd.com/film/ran/,4.51
+tt0112641,movie,Casino,Casino,0,1995,,178,"Crime,Drama",8.2,613918,145,casino,https://letterboxd.com/film/casino/,4.21
+tt0477348,movie,No Country for Old Men,No Country for Old Men,0,2007,,122,"Crime,Drama,Thriller",8.2,1176251,146,no-country-for-old-men,https://letterboxd.com/film/no-country-for-old-men/,4.31
+tt0084787,movie,The Thing,The Thing,0,1982,,109,"Horror,Mystery,Sci-Fi",8.2,521340,147,the-thing,https://letterboxd.com/film/the-thing/,4.35
+tt1745960,movie,Top Gun: Maverick,Top Gun: Maverick,0,2022,,130,"Action,Drama",8.2,846205,148,top-gun-maverick,https://letterboxd.com/film/top-gun-maverick/,3.97
+tt1392214,movie,Prisoners,Prisoners,0,2013,,153,"Crime,Drama,Mystery",8.2,922247,149,prisoners,https://letterboxd.com/film/prisoners/,4.32
+tt0266697,movie,Kill Bill: Vol. 1,Kill Bill: Vol. 1,0,2003,,111,"Action,Crime,Thriller",8.2,1295699,150,kill-bill-vol-1,https://letterboxd.com/film/kill-bill-vol-1/,4.21
+tt0457430,movie,Pan's Labyrinth,El laberinto del fauno,0,2006,,118,"Drama,Fantasy,War",8.2,743321,151,pans-labyrinth,https://letterboxd.com/film/pans-labyrinth/,4.15
+tt0105695,movie,Unforgiven,Unforgiven,0,1992,,130,"Drama,Western",8.2,465951,152,unforgiven,https://letterboxd.com/film/unforgiven/,4.2
+tt0268978,movie,A Beautiful Mind,A Beautiful Mind,0,2001,,135,"Biography,Drama,Mystery",8.2,1047943,153,a-beautiful-mind,https://letterboxd.com/film/a-beautiful-mind/,3.87
+tt0040897,movie,The Treasure of the Sierra Madre,The Treasure of the Sierra Madre,0,1948,,126,"Adventure,Drama,Western",8.2,140714,154,the-treasure-of-the-sierra-madre,https://letterboxd.com/film/the-treasure-of-the-sierra-madre/,4.29
+tt0347149,movie,Howl's Moving Castle,Hauru no ugoku shiro,0,2004,,119,"Adventure,Animation,Family",8.2,506590,155,howls-moving-castle,https://letterboxd.com/film/howls-moving-castle/,4.36
+tt0266543,movie,Finding Nemo,Finding Nemo,0,2003,,100,"Adventure,Animation,Comedy",8.2,1198251,156,finding-nemo,https://letterboxd.com/film/finding-nemo/,4.03
+tt0055630,movie,Yojimbo,Yôjinbô,0,1961,,110,"Action,Drama,Thriller",8.2,142161,157,yojimbo,https://letterboxd.com/film/yojimbo/,4.3
+tt4729430,movie,Klaus,Klaus,0,2019,,96,"Adventure,Animation,Comedy",8.2,233667,158,klaus,https://letterboxd.com/film/klaus/,4.19
+tt0057115,movie,The Great Escape,The Great Escape,0,1963,,172,"Adventure,Drama,Thriller",8.2,275974,159,the-great-escape,https://letterboxd.com/film/the-great-escape/,4.16
+tt0080678,movie,The Elephant Man,The Elephant Man,0,1980,,124,"Biography,Drama",8.2,280668,160,the-elephant-man,https://letterboxd.com/film/the-elephant-man/,4.3
+tt0071853,movie,Monty Python and the Holy Grail,Monty Python and the Holy Grail,0,1975,,91,"Adventure,Comedy,Fantasy",8.2,600607,161,monty-python-and-the-holy-grail,https://letterboxd.com/film/monty-python-and-the-holy-grail/,4.14
+tt0346336,movie,The Best of Youth,La meglio gioventù,0,2003,,374,"Drama,Romance",8.4,27677,162,the-best-of-youth,https://letterboxd.com/film/the-best-of-youth/,4.32
+tt0046912,movie,Dial M for Murder,Dial M for Murder,0,1954,,105,"Crime,Drama,Mystery",8.1,203583,163,dial-m-for-murder,https://letterboxd.com/film/dial-m-for-murder/,4.15
+tt1305806,movie,The Secret in Their Eyes,El secreto de sus ojos,0,2009,,129,"Drama,Mystery,Romance",8.2,240497,164,the-secret-in-their-eyes,https://letterboxd.com/film/the-secret-in-their-eyes/,4.24
+tt32820897,movie,Demon Slayer: Kimetsu no Yaiba Infinity Castle,Gekijô-ban Kimetsu no Yaiba Mugen Jô-hen,0,2025,,155,"Action,Adventure,Animation",8.4,64474,165,demon-slayer-kimetsu-no-yaiba-infinity-castle,https://letterboxd.com/film/demon-slayer-kimetsu-no-yaiba-infinity-castle/,4.03
+tt0031381,movie,Gone with the Wind,Gone with the Wind,0,1939,,238,"Drama,Romance,War",8.2,354681,166,gone-with-the-wind,https://letterboxd.com/film/gone-with-the-wind/,3.86
+tt0071315,movie,Chinatown,Chinatown,0,1974,,130,"Drama,Mystery,Thriller",8.1,374898,167,chinatown,https://letterboxd.com/film/chinatown/,4.3
+tt0120735,movie,"Lock, Stock and Two Smoking Barrels","Lock, Stock and Two Smoking Barrels",0,1998,,107,"Comedy,Crime",8.1,647425,168,lock-stock-and-two-smoking-barrels,https://letterboxd.com/film/lock-stock-and-two-smoking-barrels/,4.02
+tt0434409,movie,V for Vendetta,V for Vendetta,0,2005,,132,"Action,Drama,Sci-Fi",8.1,1240210,169,v-for-vendetta,https://letterboxd.com/film/v-for-vendetta/,3.88
+tt0264464,movie,Catch Me If You Can,Catch Me If You Can,0,2002,,141,"Biography,Crime,Drama",8.1,1222117,170,catch-me-if-you-can-2002,https://letterboxd.com/film/catch-me-if-you-can-2002/,4.05
+tt2096673,movie,Inside Out,Inside Out,0,2015,,95,"Adventure,Animation,Comedy",8.1,905138,171,inside-out-2015,https://letterboxd.com/film/inside-out-2015/,3.83
+tt0042876,movie,Rashomon,Rashômon,0,1950,,88,"Crime,Drama,Mystery",8.1,195281,172,rashomon,https://letterboxd.com/film/rashomon/,4.2
+tt0252488,movie,The Chaos Class Failed the Class,Hababam Sinifi: Sinifta Kaldi,0,1975,,95,Comedy,8.5,29943,173,the-chaos-class-failed-the-class,https://letterboxd.com/film/the-chaos-class-failed-the-class/,3.53
+tt5027774,movie,"Three Billboards Outside Ebbing, Missouri","Three Billboards Outside Ebbing, Missouri",0,2017,,115,"Comedy,Crime,Drama",8.1,601899,174,three-billboards-outside-ebbing-missouri,https://letterboxd.com/film/three-billboards-outside-ebbing-missouri/,4.06
+tt0117951,movie,Trainspotting,Trainspotting,0,1996,,93,"Crime,Drama",8.1,765290,175,trainspotting,https://letterboxd.com/film/trainspotting/,4.22
+tt0050212,movie,The Bridge on the River Kwai,The Bridge on the River Kwai,0,1957,,161,"Adventure,Drama,War",8.1,247494,176,the-bridge-on-the-river-kwai,https://letterboxd.com/film/the-bridge-on-the-river-kwai/,4.24
+tt1201607,movie,Harry Potter and the Deathly Hallows: Part 2,Harry Potter and the Deathly Hallows: Part 2,0,2011,,130,"Adventure,Family,Fantasy",8.1,1036484,177,harry-potter-and-the-deathly-hallows-part-2,https://letterboxd.com/film/harry-potter-and-the-deathly-hallows-part-2/,4.02
+tt0097165,movie,Dead Poets Society,Dead Poets Society,0,1989,,128,"Comedy,Drama",8.1,642337,178,dead-poets-society,https://letterboxd.com/film/dead-poets-society/,4.34
+tt29623480,movie,The Wild Robot,The Wild Robot,0,2024,,102,"Adventure,Animation,Family",8.2,215332,179,the-wild-robot,https://letterboxd.com/film/the-wild-robot/,4.21
+tt1291584,movie,Warrior,Warrior,0,2011,,140,"Action,Drama,Sport",8.1,526024,180,warrior,https://letterboxd.com/film/warrior/,4.03
+tt0116282,movie,Fargo,Fargo,0,1996,,98,"Crime,Drama,Thriller",8.1,780982,181,fargo,https://letterboxd.com/film/fargo/,4.16
+tt0072684,movie,Barry Lyndon,Barry Lyndon,0,1975,,185,"Adventure,Drama,War",8.1,202412,182,barry-lyndon,https://letterboxd.com/film/barry-lyndon/,4.4
+tt0081398,movie,Raging Bull,Raging Bull,0,1980,,129,"Biography,Drama,Sport",8.1,407679,183,raging-bull,https://letterboxd.com/film/raging-bull/,4.22
+tt0052618,movie,Ben-Hur,Ben-Hur,0,1959,,212,"Adventure,Drama",8.1,269895,184,ben-hur-1959,https://letterboxd.com/film/ben-hur-1959/,4.08
+tt0405159,movie,Million Dollar Baby,Million Dollar Baby,0,2004,,132,"Drama,Sport",8.1,762221,185,million-dollar-baby,https://letterboxd.com/film/million-dollar-baby/,4.04
+tt1392190,movie,Mad Max: Fury Road,Mad Max: Fury Road,0,2015,,120,"Action,Adventure,Sci-Fi",8.1,1198741,186,mad-max-fury-road,https://letterboxd.com/film/mad-max-fury-road/,4.17
+tt0118849,movie,Children of Heaven,Bacheha-ye aseman,0,1997,,89,"Drama,Family,Sport",8.2,89187,187,children-of-heaven,https://letterboxd.com/film/children-of-heaven/,4.21
+tt2119532,movie,Hacksaw Ridge,Hacksaw Ridge,0,2016,,139,"Biography,Drama,History",8.1,672377,188,hacksaw-ridge,https://letterboxd.com/film/hacksaw-ridge/,4.01
+tt1205489,movie,Gran Torino,Gran Torino,0,2008,,116,Drama,8.1,857523,189,gran-torino,https://letterboxd.com/film/gran-torino/,3.83
+tt0096283,movie,My Neighbor Totoro,Tonari no Totoro,0,1988,,86,"Adventure,Animation,Comedy",8.1,426719,190,my-neighbor-totoro,https://letterboxd.com/film/my-neighbor-totoro/,4.19
+tt2024544,movie,12 Years a Slave,12 Years a Slave,0,2013,,134,"Biography,Drama,History",8.1,782343,191,12-years-a-slave,https://letterboxd.com/film/12-years-a-slave/,4.16
+tt2278388,movie,The Grand Budapest Hotel,The Grand Budapest Hotel,0,2014,,99,"Comedy,Drama",8.1,960468,192,the-grand-budapest-hotel,https://letterboxd.com/film/the-grand-budapest-hotel/,4.24
+tt0382932,movie,Ratatouille,Ratatouille,0,2007,,111,"Adventure,Animation,Comedy",8.1,932211,193,ratatouille,https://letterboxd.com/film/ratatouille/,4.23
+tt0112471,movie,Before Sunrise,Before Sunrise,0,1995,,101,"Comedy,Drama,Romance",8.1,373628,194,before-sunrise,https://letterboxd.com/film/before-sunrise/,4.3
+tt0353969,movie,Memories of Murder,Salinui chueok,0,2003,,131,"Crime,Drama,Mystery",8.1,261879,195,memories-of-murder,https://letterboxd.com/film/memories-of-murder/,4.42
+tt0083658,movie,Blade Runner,Blade Runner,0,1982,,117,"Action,Drama,Sci-Fi",8.1,876481,196,blade-runner,https://letterboxd.com/film/blade-runner/,4.1
+tt0892769,movie,How to Train Your Dragon,How to Train Your Dragon,0,2010,,98,"Action,Adventure,Animation",8.1,885105,197,how-to-train-your-dragon,https://letterboxd.com/film/how-to-train-your-dragon/,4.13
+tt10872600,movie,Spider-Man: No Way Home,Spider-Man: No Way Home,0,2021,,148,"Action,Adventure,Fantasy",8.1,1004483,198,spider-man-no-way-home,https://letterboxd.com/film/spider-man-no-way-home/,3.83
+tt2267998,movie,Gone Girl,Gone Girl,0,2014,,149,"Drama,Mystery,Thriller",8.1,1159255,199,gone-girl,https://letterboxd.com/film/gone-girl/,4.07
+tt0198781,movie,"Monsters, Inc.","Monsters, Inc.",0,2001,,92,"Adventure,Animation,Comedy",8.1,1065583,200,monsters-inc,https://letterboxd.com/film/monsters-inc/,4.08
+tt0073195,movie,Jaws,Jaws,0,1975,,124,"Adventure,Horror,Thriller",8.1,731153,201,jaws,https://letterboxd.com/film/jaws/,3.93
+tt0107207,movie,In the Name of the Father,In the Name of the Father,0,1993,,133,"Biography,Crime,Drama",8.1,201638,202,in-the-name-of-the-father-1993,https://letterboxd.com/film/in-the-name-of-the-father-1993/,4.2
+tt1950186,movie,Ford v Ferrari,Ford v Ferrari,0,2019,,152,"Action,Biography,Drama",8.1,562494,203,ford-v-ferrari,https://letterboxd.com/film/ford-v-ferrari/,4.02
+tt3011894,movie,Wild Tales,Relatos salvajes,0,2014,,122,"Comedy,Drama,Thriller",8.1,236452,204,wild-tales,https://letterboxd.com/film/wild-tales/,4.14
+tt0015864,movie,The Gold Rush,The Gold Rush,0,1925,,95,"Adventure,Comedy,Drama",8.1,127523,205,the-gold-rush,https://letterboxd.com/film/the-gold-rush/,4.15
+tt0978762,movie,Mary and Max,Mary and Max.,0,2009,,92,"Animation,Comedy,Drama",8.1,200758,206,mary-and-max,https://letterboxd.com/film/mary-and-max/,4.26
+tt0015324,movie,Sherlock Jr.,Sherlock Jr.,0,1924,,45,"Action,Comedy,Romance",8.1,65102,207,sherlock-jr,https://letterboxd.com/film/sherlock-jr/,4.37
+tt0077416,movie,The Deer Hunter,The Deer Hunter,0,1978,,183,"Drama,War",8.1,384827,208,the-deer-hunter,https://letterboxd.com/film/the-deer-hunter/,4.21
+tt0046268,movie,The Wages of Fear,Le salaire de la peur,0,1953,,156,"Adventure,Drama,Thriller",8.1,73019,209,the-wages-of-fear,https://letterboxd.com/film/the-wages-of-fear/,4.36
+tt0017925,movie,The General,The General,0,1926,,78,"Action,Adventure,Comedy",8.1,105623,210,the-general,https://letterboxd.com/film/the-general/,4.2
+tt3315342,movie,Logan,Logan,0,2017,,137,"Action,Drama,Sci-Fi",8.1,918692,211,logan-2017,https://letterboxd.com/film/logan-2017/,4.12
+tt0075148,movie,Rocky,Rocky,0,1976,,120,"Drama,Sport",8.1,683140,212,rocky,https://letterboxd.com/film/rocky/,4.1
+tt0031679,movie,Mr. Smith Goes to Washington,Mr. Smith Goes to Washington,0,1939,,129,"Comedy,Drama",8.1,128904,213,mr-smith-goes-to-washington,https://letterboxd.com/film/mr-smith-goes-to-washington/,4.13
+tt0047296,movie,On the Waterfront,On the Waterfront,0,1954,,108,"Crime,Drama,Thriller",8.1,176869,214,on-the-waterfront,https://letterboxd.com/film/on-the-waterfront/,4.17
+tt0046438,movie,Tokyo Story,Tôkyô monogatari,0,1953,,137,Drama,8.1,77027,215,tokyo-story,https://letterboxd.com/film/tokyo-story/,4.43
+tt0325980,movie,Pirates of the Caribbean: The Curse of the Black Pearl,Pirates of the Caribbean: The Curse of the Black Pearl,0,2003,,143,"Action,Adventure,Fantasy",8.1,1313011,216,pirates-of-the-caribbean-the-curse-of-the-black-pearl,https://letterboxd.com/film/pirates-of-the-caribbean-the-curse-of-the-black-pearl/,3.99
+tt0050986,movie,Wild Strawberries,Smultronstället,0,1957,,92,"Drama,Romance",8.1,123846,217,wild-strawberries,https://letterboxd.com/film/wild-strawberries/,4.33
+tt1895587,movie,Spotlight,Spotlight,0,2015,,129,"Biography,Crime,Drama",8.1,532080,218,spotlight,https://letterboxd.com/film/spotlight/,4.12
+tt0113247,movie,La haine,La haine,0,1995,,98,"Crime,Drama",8.1,223325,219,la-haine,https://letterboxd.com/film/la-haine/,4.5
+tt5323662,movie,A Silent Voice: The Movie,Koe no katachi,0,2016,,130,"Animation,Drama",8.2,137387,220,a-silent-voice-the-movie,https://letterboxd.com/film/a-silent-voice-the-movie/,4.2
+tt0088247,movie,The Terminator,The Terminator,0,1984,,107,"Action,Adventure,Sci-Fi",8.1,996493,221,the-terminator,https://letterboxd.com/film/the-terminator/,3.88
+tt0041959,movie,The Third Man,The Third Man,0,1949,,104,"Drama,Film-Noir,Mystery",8.1,194344,222,the-third-man,https://letterboxd.com/film/the-third-man/,4.24
+tt26548265,movie,Maharaja,Maharaja,0,2024,,141,"Action,Crime,Drama",8.3,79889,223,maharaja-2024,https://letterboxd.com/film/maharaja-2024/,3.83
+tt0059742,movie,The Sound of Music,The Sound of Music,0,1965,,174,"Biography,Drama,Family",8.1,289222,224,the-sound-of-music,https://letterboxd.com/film/the-sound-of-music/,4.24
+tt15097216,movie,Jai Bhim,Jai Bhim,0,2021,,164,"Crime,Drama",8.6,233124,225,jai-bhim,https://letterboxd.com/film/jai-bhim/,3.77
+tt0118715,movie,The Big Lebowski,The Big Lebowski,0,1998,,117,"Comedy,Crime",8.1,912191,226,the-big-lebowski,https://letterboxd.com/film/the-big-lebowski/,4.11
+tt0036868,movie,The Best Years of Our Lives,The Best Years of Our Lives,0,1946,,170,"Drama,Romance,War",8.1,76997,227,the-best-years-of-our-lives,https://letterboxd.com/film/the-best-years-of-our-lives/,4.24
+tt0050976,movie,The Seventh Seal,Det sjunde inseglet,0,1957,,96,"Drama,Fantasy",8.1,214811,228,the-seventh-seal,https://letterboxd.com/film/the-seventh-seal/,4.33
+tt3170832,movie,Room,Room,0,2015,,118,"Drama,Thriller",8.1,477885,229,room-2015,https://letterboxd.com/film/room-2015/,3.96
+tt0381681,movie,Before Sunset,Before Sunset,0,2004,,80,"Drama,Romance",8.1,312452,230,before-sunset,https://letterboxd.com/film/before-sunset/,4.32
+tt0395169,movie,Hotel Rwanda,Hotel Rwanda,0,2004,,121,"Biography,Drama,History",8.1,390447,231,hotel-rwanda,https://letterboxd.com/film/hotel-rwanda/,3.85
+tt0091763,movie,Platoon,Platoon,0,1986,,120,"Drama,War",8.1,469667,232,platoon,https://letterboxd.com/film/platoon/,3.98
+tt0317705,movie,The Incredibles,The Incredibles,0,2004,,115,"Action,Adventure,Animation",8.0,891877,233,the-incredibles,https://letterboxd.com/film/the-incredibles/,4.07
+tt30472557,movie,Chainsaw Man - The Movie: Reze Arc,Gekijô-ban Chensô Man Reze-hen,0,2025,,100,"Action,Adventure,Animation",8.3,46821,234,chainsaw-man-the-movie-reze-arc,https://letterboxd.com/film/chainsaw-man-the-movie-reze-arc/,4.35
+tt1028532,movie,Hachi: A Dog's Tale,Hachi: A Dog's Tale,0,2009,,93,"Biography,Drama,Family",8.1,340118,235,hachi-a-dogs-tale,https://letterboxd.com/film/hachi-a-dogs-tale/,3.88
+tt0070047,movie,The Exorcist,The Exorcist,0,1973,,122,Horror,8.1,495259,236,the-exorcist,https://letterboxd.com/film/the-exorcist/,3.95
+tt1979320,movie,Rush,Rush,0,2013,,123,"Biography,Drama,Sport",8.1,554928,237,rush-2013,https://letterboxd.com/film/rush-2013/,3.86
+tt0032138,movie,The Wizard of Oz,The Wizard of Oz,0,1939,,102,"Adventure,Family,Fantasy",8.1,464791,238,the-wizard-of-oz-1939,https://letterboxd.com/film/the-wizard-of-oz-1939/,3.93
+tt0092005,movie,Stand by Me,Stand by Me,0,1986,,89,"Adventure,Comedy,Drama",8.1,483040,239,stand-by-me,https://letterboxd.com/film/stand-by-me/,4.18
+tt0129167,movie,The Iron Giant,The Iron Giant,0,1999,,86,"Action,Adventure,Animation",8.1,257361,240,the-iron-giant,https://letterboxd.com/film/the-iron-giant/,4.28
+tt0019254,movie,The Passion of Joan of Arc,La passion de Jeanne d'Arc,0,1928,,114,"Biography,Drama,History",8.1,67646,241,the-passion-of-joan-of-arc,https://letterboxd.com/film/the-passion-of-joan-of-arc/,4.43
+tt0476735,movie,My Father and My Son,Babam ve Oglum,0,2005,,112,"Drama,Family",8.2,100145,242,my-father-and-my-son,https://letterboxd.com/film/my-father-and-my-son/,3.95
+tt0058946,movie,The Battle of Algiers,La battaglia di Algeri,0,1966,,121,"Drama,War",8.1,74892,243,the-battle-of-algiers,https://letterboxd.com/film/the-battle-of-algiers/,4.45
+tt4016934,movie,The Handmaiden,Ah-ga-ssi,0,2016,,145,"Drama,Romance,Thriller",8.1,200278,244,the-handmaiden,https://letterboxd.com/film/the-handmaiden/,4.39
+tt0074958,movie,Network,Network,0,1976,,121,Drama,8.1,184846,245,network,https://letterboxd.com/film/network/,4.26
+tt0035446,movie,To Be or Not to Be,To Be or Not to Be,0,1942,,99,"Comedy,Romance,War",8.1,49452,246,to-be-or-not-to-be,https://letterboxd.com/film/to-be-or-not-to-be/,4.33
+tt1954470,movie,Gangs of Wasseypur,Gangs of Wasseypur,0,2012,,321,"Action,Comedy,Crime",8.2,113223,247,gangs-of-wasseypur-part-1,https://letterboxd.com/film/gangs-of-wasseypur-part-1/,4.04
+tt4430212,movie,Drishyam,Drishyam,0,2015,,163,"Crime,Drama,Mystery",8.2,107497,248,drishyam-2015,https://letterboxd.com/film/drishyam-2015/,3.82
+tt0032551,movie,The Grapes of Wrath,The Grapes of Wrath,0,1940,,129,Drama,8.1,107878,249,the-grapes-of-wrath,https://letterboxd.com/film/the-grapes-of-wrath/,4.19
+tt1454029,movie,The Help,The Help,0,2011,,146,Drama,8.1,525605,250,the-help,https://letterboxd.com/film/the-help/,3.93

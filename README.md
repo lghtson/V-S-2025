@@ -37,7 +37,7 @@ Available at: https://www.oracleofbacon.org
 [^2]: IMDB.com, Inc., 1990. IMDb Non-Commercial Datasets. [Online] 
 Available at: https://developer.imdb.com/non-commercial-datasets/
 [Accessed 24 February 2026].
-[^3]: insert chatGPT prompt here.
+[^3]: OpenAI. (2025). ChatGPT (Feb 24 version) [Large language model]. [Online]
 [^4]: r/nmcassa, 2022. letterboxdpy. [Online] 
 Available at: https://github.com/nmcassa/letterboxdpy
 [Accessed 24 February 2026].

@@ -1,0 +1,21 @@
+group,tconst,title,startYear,genres,imdbTop250Rank,url,averageRating,letterboxdRatingOutOf5,rottenTomatoesPercent,metacriticScore
+Canon / Foundations,tt0068646,The Godfather,1972,"Crime,Drama",2,https://yourproject.netlify.app/?film=tt0068646,9.2,4.52,97.0,100.0
+Canon / Foundations,tt0050083,12 Angry Men,1957,"Crime,Drama",5,https://yourproject.netlify.app/?film=tt0050083,9.0,4.63,100.0,97.0
+Canon / Foundations,tt0060196,"The Good, the Bad and the Ugly",1966,"Adventure,Drama,Western",10,https://yourproject.netlify.app/?film=tt0060196,8.8,4.51,97.0,90.0
+Canon / Foundations,tt0056058,Harakiri,1962,"Drama,Mystery",38,https://yourproject.netlify.app/?film=tt0056058,8.6,4.69,100.0,85.0
+Canon / Foundations,tt0078748,Alien,1979,"Horror,Sci-Fi",50,https://yourproject.netlify.app/?film=tt0078748,8.5,4.25,93.0,89.0
+Crowd Favourites / Blockbusters,tt0468569,The Dark Knight,2008,"Action,Crime,Drama",3,https://yourproject.netlify.app/?film=tt0468569,9.1,4.49,94.0,85.0
+Crowd Favourites / Blockbusters,tt0167260,The Lord of the Rings: The Return of the King,2003,"Adventure,Drama,Fantasy",6,https://yourproject.netlify.app/?film=tt0167260,9.0,4.54,94.0,94.0
+Crowd Favourites / Blockbusters,tt1375666,Inception,2010,"Action,Adventure,Sci-Fi",14,https://yourproject.netlify.app/?film=tt1375666,8.8,4.23,87.0,74.0
+Crowd Favourites / Blockbusters,tt0816692,Interstellar,2014,"Adventure,Drama,Sci-Fi",18,https://yourproject.netlify.app/?film=tt0816692,8.7,4.44,73.0,74.0
+Crowd Favourites / Blockbusters,tt1392190,Mad Max: Fury Road,2015,"Action,Adventure,Sci-Fi",186,https://yourproject.netlify.app/?film=tt1392190,8.1,4.17,97.0,90.0
+Modern Critical Darlings,tt6751668,Parasite,2019,"Drama,Thriller",34,https://yourproject.netlify.app/?film=tt6751668,8.5,4.53,99.0,97.0
+Modern Critical Darlings,tt2582802,Whiplash,2014,"Drama,Music",40,https://yourproject.netlify.app/?film=tt2582802,8.5,4.42,94.0,89.0
+Modern Critical Darlings,tt15239678,Dune: Part Two,2024,"Action,Adventure,Drama",59,https://yourproject.netlify.app/?film=tt15239678,8.4,4.38,92.0,79.0
+Modern Critical Darlings,tt15398776,Oppenheimer,2023,"Biography,Drama,History",129,https://yourproject.netlify.app/?film=tt15398776,8.2,4.17,93.0,90.0
+Modern Critical Darlings,tt0353969,Memories of Murder,2003,"Crime,Drama,Mystery",195,https://yourproject.netlify.app/?film=tt0353969,8.1,4.42,,82.0
+Personality Picks,tt0110912,Pulp Fiction,1994,"Crime,Drama",9,https://yourproject.netlify.app/?film=tt0110912,8.8,4.24,92.0,95.0
+Personality Picks,tt0317248,City of God,2002,"Crime,Drama",26,https://yourproject.netlify.app/?film=tt0317248,8.6,4.56,91.0,79.0
+Personality Picks,tt0245429,Spirited Away,2001,"Adventure,Animation,Family",31,https://yourproject.netlify.app/?film=tt0245429,8.6,4.44,96.0,96.0
+Personality Picks,tt0120382,The Truman Show,1998,"Comedy,Drama",128,https://yourproject.netlify.app/?film=tt0120382,8.2,4.22,94.0,90.0
+Personality Picks,tt2278388,The Grand Budapest Hotel,2014,"Comedy,Drama",192,https://yourproject.netlify.app/?film=tt2278388,8.1,4.24,92.0,88.0

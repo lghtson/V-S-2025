@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="style.css">
+         <title>Objective Film Reranker</title>
+    </head>
+
+    <body>
+        <h1>Are Film Rankings Actually Objective?</h1>
+        
+        <section id="intro">
+            <h2>Usually, film rankings feel quite <i>objective</i>.</h2>
+            <p>Lists like IMDB's Top 250 - as seen below - make it seem like there's a hierarchy which could be described as the "best" films ever made. <b>The Shawshank Redemption (1994)</b> has topped this list since 2008.</p>
+            <div class="button-group">
+                <button onclick="unorderedList(1, 15, this)">1-15</button>
+                <button onclick="unorderedList(16, 30, this)">16-30</button>
+                <button onclick="unorderedList(31, 45, this)">31-45</button>
+                <button onclick="unorderedList(46, 60, this)">46-60</button>
+                <button onclick="unorderedList(61, 75, this)">61-75</button>
+                <button onclick="unorderedList(76, 90, this)">76-90</button>
+                <button onclick="unorderedList(91, 105, this)">91-105</button>
+                <button onclick="unorderedList(106, 120, this)">106-120</button>
+                <button onclick="unorderedList(121, 135, this)">121-135</button>
+                <button onclick="unorderedList(136, 150, this)">136-150</button>
+                <button onclick="unorderedList(151, 165, this)">151-165</button>
+                <button onclick="unorderedList(166, 180, this)">166-180</button>
+                <button onclick="unorderedList(181, 195, this)">181-195</button>
+                <button onclick="unorderedList(196, 210, this)">196-210</button>
+                <button onclick="unorderedList(211, 225, this)">211-225</button>
+                <button onclick="unorderedList(226, 240, this)">226-240</button>
+                <button onclick="unorderedList(241, 250, this)">241-250</button>
+            </div>
+            <div id="imdb-list" class="ranking-list"></div>
+            <div id="intro-rating-panel" class="rating-panel hidden"></div>
+
+        </section>
+
+        <section id="comparison">
+            <h2><b>However, with so many platforms for users to rate these films, it can be rather inconclusive.</b></h2>
+            <p>Different styles of art appeal to different audiences, and audiences utilising differing platforms question the placement of these "best" movies. In addition, different rating systems produce different ideas of "quality". <i>Harakiri (1962)</i> would be considered as the greatest movie of all time according to Letterboxd, with The Shawshank Redemption being moved down to 7th. There are <b>7</b> movies with a perfect 100 critic score via MetaCritic (Citizen Kane, Vertigo, Casablanca, Rear Window, Lawrence of Arabia, Tokyo Story, The Godfather).</p>
+        </section>
+
+        <section id="rerank">
+            <h2>So... What if we combine these systems?</h2>
+            <p>And rather than having a pre-defined "best" list, how about choosing a different starting film that changes the shape of the ranking? In this way we can find more films that are similar to our favourites.</p>
+
+            <div class="button-group">
+                <button onclick="updateRanking('tt0068646', this)">The Godfather</button>
+                <button onclick="updateRanking('tt0468569', this)">The Dark Knight</button>
+                <button onclick="updateRanking('tt0034583', this)">Casablanca</button>
+                <button onclick="updateRanking('tt23849204', this)">12th Fail</button>
+                <button onclick="updateRanking('tt0119698', this)">Princess Mononoke</button>
+            </div>
+
+            <div id="selected-card"></div>
+            <div id="results" class="ranking-list"></div>
+            <div id="rating-panel" class="rating-panel hidden"></div>
+            <p>Notice how selecting a crime drama like <i>The Godfather</i> produces a very different list compared to an animated film like <i>Princess Mononoke</i>.</p>
+        </section>
+        
+        <section id = "connections">
+            <h2>The Oracle of IMDb</h2>
+            <p>Here is a list of IMDb's top 150 movies, with the most similar movies to one another chained together. Feel free to drag the nodes around; the closer the nodes are the more alike they will be. The larger the node size, the higher the movie position is on the list.</p>
+            <button onclick="toggleGraphFullscreen()">><</button>
+            <div id = "network-graph"></div>
+        </section>
+
+        <section id="insights">
+            <h2>What does the data reveal?</h2>
+        
+            <div id="highest-disagreement"></div>
+            <div id="critic-vs-audience"></div>
+            <div id="genre-patterns"></div>
+
+            <h2>However, it's crucial to note that this project isn't attemptting to produce the “true” best films. Instead, it treats ranking as a constructed system. By combining platform scores and genre similarity, the project shows how different data sources create different versions of cultural value.</h2>
+
+        </section>
+
+        <section id="explore">
+            <h2>Try it yourself</h2>
+            <p>What would your Top 10 look like? Or maybe you need some help finding the next best thing to watch. Search for up to 3 films. The system will combine them and recommend the 10 most similar films.</p>
+        
+            <input id="film-search" type="text" placeholder="Search for a film..." oninput="searchFilms()">
+            <div id="search-results"></div>
+        
+            <h3>Selected films</h3>
+            <div id="chosen-films"></div>
+        
+            <button onclick="generateCustomRanking()">Generate Ranking</button>
+        
+            <div id="explore-selected-card"></div>
+            <div id="explore-results" class="ranking-list"></div>
+            <div id="explore-rating-panel" class="rating-panel hidden"></div>
+        </section>
+
+
+        <script src="https://d3js.org/d3.v7.min.js"></script>
+        <script src="rerank.js"></script>
+    </body>
+</html>

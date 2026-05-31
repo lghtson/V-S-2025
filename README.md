@@ -20,7 +20,8 @@ I've also been watching some of the imdb's top 250 movies but i didnt like how m
 
 TMDB's API is open source whilst IMDB's is slightly more restricted.
 Started by trying to find public API's during Week 2's homework.
-Used IMDb's Non commercial Datasets[^2], then used ChatGPT to return only top 250 movies[^3].
+Used IMDb's Non commercial Datasets[^2], then used ChatGPT to return only top 250 movies.[^3]
+
 ![chatgpt prompt to refine dataset](chatGPT_prompt.png)
 Found a Letterboxd webscraper that i plan to use to pull letterboxd ratings[^4].
 Decided to include Rotten Tomato and Metacritic scores using OMDb's API[^5].
@@ -55,7 +56,6 @@ Available at: https://github.com/nmcassa/letterboxdpy
 [^5]: Fritz, B., 2015. OMDb API. [Online] 
 Available at: https://www.omdbapi.com
 [Accessed 24 February 2026].
-
 
 ## Reflection
 The system is not neutral. The weighting choices shape the outcome, which reflects the wider issue that rankings are built from subjective systems of value.
